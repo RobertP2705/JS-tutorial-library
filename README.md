@@ -31,3 +31,5 @@ const tutorial = initGuidanceSystem([
   }
 ]);
 ```
+
+Ill probably add a css config file later to make it easier to configure
